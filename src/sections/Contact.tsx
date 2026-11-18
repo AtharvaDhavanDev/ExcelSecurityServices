@@ -63,7 +63,7 @@ export default function Contact() {
             {/* CTA buttons */}
             <div className="mt-10 flex flex-wrap gap-4">
               <a
-                href="https://wa.me/919820528126"
+                href="https://wa.me/8433577668"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 bg-[#C69A42] px-6 py-4 text-sm font-semibold text-[#101F33] transition-colors hover:bg-[#D6AE60]"
